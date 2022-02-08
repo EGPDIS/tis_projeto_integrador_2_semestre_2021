@@ -1,3 +1,6 @@
 [submodule "ebashoesguide_modelo"]
 	path = ebashoesguide_modelo
 	url = https://github.com/EGPDIS/ebashoesguide_modelo
+[submodule "ebashoesguide_aplicativo"]
+	path = ebashoesguide_aplicativo
+	url = https://github.com/EGPDIS/ebashoesguide_aplicativo
